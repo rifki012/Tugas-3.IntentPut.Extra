@@ -16,7 +16,6 @@ import java.util.Locale;
 
 public class LoginActivity extends AppCompatActivity {
     Button login;
-    TextView register_user;
     EditText username,password;
 
     protected void onCreate(Bundle saveInstanceState){
